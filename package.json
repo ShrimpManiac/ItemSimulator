@@ -1,10 +1,11 @@
 {
-  "name": "Item_Simulator",
+  "name": "item_simulator",
   "version": "1.0.0",
   "main": "app.js",
-  "repository": "github.com/ShrimpManiac/Item_Simulator",
+  "repository": "github.com/ShrimpManiac/ItemSimulator",
   "author": "ShrimpManiac",
   "license": "MIT",
+  "type": "module",
   "dependencies": {
     "express": "^4.21.0"
   }
